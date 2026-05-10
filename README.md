@@ -8,3 +8,8 @@
 # 논리 연산자 and, or, not 활용한 실행문 작성
 # 조건문 if, elif, else 활용한 실행
 # 반복문 for, while 활용한 실행문 작성
+# 반복문 for in list 활용한 실행문 작성
+# 반복문 for in range 활용한 실행
+# 중첩 반복문과 range를 활용한 구구단 출력
+# 반복문 while input() : 사용자로부터 입력을 받는 함수
+# 함수 생성 후 함수 호출 인수값에 대한 리턴값 출력
